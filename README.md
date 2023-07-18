@@ -31,8 +31,8 @@
 
 
 </div>
----
 
+---
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
@@ -65,7 +65,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=malikarbazakram&amp;hide_border=true&amp;border_radius=10&amp;date_format=M%20j%5B%2C%20Y%5D&amp;exclude_days=Sun%2CSat&amp;card_width=500" alt="GitHub Streak">
      </a>
    </p>
+
+   <p>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikarbazakram&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
+     </a>
+   </p>
+
  </div> 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
