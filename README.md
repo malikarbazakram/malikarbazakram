@@ -27,12 +27,23 @@
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400" height="300"/>
   </div>
-
+  
   ---
-  ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 </div>
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+
+- :telescope: I’m working as an Associate Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Graphic Designing.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malikarbazakram/")
+
+
 
 
 
