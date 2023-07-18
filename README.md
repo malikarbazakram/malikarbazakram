@@ -27,6 +27,11 @@
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400" height="300"/>
   </div>
+
+  ---
+  ### :man_technologist: About Me :
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 </div>
 
 
