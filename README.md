@@ -13,11 +13,15 @@
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<br><br>
+<br>
  <div id="profile-views" align="center">
          <img src="https://komarev.com/ghpvc/?username=malikarbazakram&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h1 style="text-align:center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 
