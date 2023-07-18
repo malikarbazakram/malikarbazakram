@@ -14,9 +14,12 @@
   </a>
 </div>
 
- <div id="profileViews" align="center">
+<br><br>
+ <div id="profile-views" align="center">
          <img src="https://komarev.com/ghpvc/?username=malikarbazakram&style=flat-square&color=blue" alt=""/>
-  </div>
+</div>
+
+
 
 
 
