@@ -14,7 +14,10 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=malikarbazakram&style=flat-square&color=blue" alt="" class="center"/>
+ <div style="text-align: center;">
+         <img src="https://komarev.com/ghpvc/?username=malikarbazakram&style=flat-square&color=blue" alt=""/>
+  </div>
+
 
 
 
