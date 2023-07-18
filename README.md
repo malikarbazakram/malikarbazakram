@@ -25,7 +25,7 @@
   </h1>
 
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400" height="300"/>
   </div>
 </div>
 
