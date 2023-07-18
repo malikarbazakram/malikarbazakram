@@ -14,7 +14,7 @@
   </a>
 </div>
 
- <div style="text-align: center;">
+ <div id="profileViews" align="center">
          <img src="https://komarev.com/ghpvc/?username=malikarbazakram&style=flat-square&color=blue" alt=""/>
   </div>
 
