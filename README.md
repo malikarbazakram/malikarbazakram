@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    </p>
 
    <p>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikarbazakram&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikarbazakram&amp;layout=compact&amp;theme=graywhite" alt="Top Langs">
      </a>
    </p>
 
